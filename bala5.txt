@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
                    SSUUMMMMAARRYY OOFF LLEESSSS CCOOMMMMAANNDDSS
 
@@ -238,3 +239,6 @@
 =======
 ﻿New file 
 >>>>>>> making changes in firstbranch
+=======
+﻿New file 
+>>>>>>> e324088302939497082cf1f2373d330e63d8c5e0
