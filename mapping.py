@@ -1,5 +1,5 @@
 city_code = {
-    'kullu': 'KUU'3
+    'kullu': 'KUU'
     , 'colombo': 'CMB'
     , 'guwahati': 'GAU'
     , 'pondicherry': 'PNY'
